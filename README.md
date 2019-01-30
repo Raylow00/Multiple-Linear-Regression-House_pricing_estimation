@@ -1,4 +1,4 @@
-# Multiple-Linear-Regression-House_pricing_estimation
+# Multiple-Linear-Regression-Real_estate_valuation
 
 This is the second lesson for machine learning, where I implemented a small set of housing data to test with Multiple Linear Regression. 
 
