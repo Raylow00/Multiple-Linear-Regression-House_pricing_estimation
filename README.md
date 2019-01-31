@@ -9,6 +9,10 @@ This simple test is a much better one compared to the bikesharing dataset as the
 This housing data however, uses multiple linear regression, and with each variable that I add, the R-2 score increases. It goes to show how much a variable can affect a model of the dataset and sometimes we simply cannot use only one variable to make a good fit. 
 
 
+***Update:
+Note that the relationship between certain features and labels are not apparent and might not even show relation with regards to each other, but this is merely a practice for me to test out my knowledge on linear regression.
+
+
 ********************************************************
 Citation:
 Yeh, I. C., & Hsu, T. K. (2018). Building real estate valuation models with comparative approach through case-based reasoning. Applied Soft Computing, 65, 260-271.
